@@ -404,7 +404,7 @@ build_ievm() {
         IE10_Win8.zip) md5="cc4e2f4b195e1b1e24e2ce6c7a6f149c" ;;
         # https://github.com/xdissent/ievms/issues/274#issuecomment-159412949
         # MSEdge_Win10.zip) md5="c1011b491d49539975fb4c3eeff16dae" ;;
-        MSEdge_Win10.zip) md5="2a591bd4e59c8fc1ca9818c31b99666b" ;;
+        IE11_Win10.zip) md5="2a591bd4e59c8fc1ca9818c31b99666b" ;;
     esac
     
     log "Checking for existing OVA at ${ievms_home}/${ova}"
