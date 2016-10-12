@@ -374,6 +374,7 @@ build_ievm() {
             version="Edge"
             os="Win10"
             unit="8"
+            archive="IE11_Win10.zip"
             ;;
         *) fail "Invalid IE version: ${1}" ;;
     esac
